@@ -29,9 +29,9 @@ Python backend development, asynchronous programming, databases, software archit
 
 ## 🌍 Languages
 
-- :ru: Russian — Native
-- 🇬🇧/:us: English — B2
-- :ge: German — B1
+- 🇷🇺 Russian — Native
+- 🇬🇧/🇺🇸 English — B2
+- 🇩🇪 German — B1
   
 ## 📫 Contact
 
