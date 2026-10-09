@@ -1,4 +1,4 @@
-# Hi, I'm Artyom 👋
+# Hi, I'm Artem 👋
 
 I'm an Applied Informatics student interested in software development, backend systems and machine learning.
 
@@ -27,6 +27,12 @@ I like working with data, APIs and asynchronous systems, and I'm currently focus
 
 Python backend development, asynchronous programming, databases, software architecture and production-oriented engineering practices.
 
+## 🌍 Languages
+
+- :ru: Russian — Native
+- 🇬🇧/:us: English — B2
+- :ge: German — B1
+  
 ## 📫 Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheOneAndOnlyX)
